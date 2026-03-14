@@ -2,6 +2,10 @@
 
 Next.js + Zod + shadcn/ui を使ったお問い合わせフォームのサンプルアプリケーションです。
 
+## スクリーンショット
+
+![お問い合わせフォーム](docs/screenshot.png)
+
 ## 技術スタック
 
 - [Next.js](https://nextjs.org/) (App Router)
