@@ -1,7 +1,9 @@
+import { ContactForm } from "@/components/contact-form";
+
 export default function Home() {
   return (
-    <main className="flex min-h-screen items-center justify-center">
-      <h1 className="text-4xl font-bold">Sample App</h1>
+    <main className="flex min-h-screen items-center justify-center p-4">
+      <ContactForm />
     </main>
   );
 }
